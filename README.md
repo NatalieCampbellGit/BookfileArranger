@@ -34,6 +34,8 @@ The URL of the deployed application: https://nataliecampbellgit.github.io/Bookfi
 
 The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project: https://github.com/NatalieCampbellGit/BookfileArranger
 
+Screencastify link - Add me
+
 ## Preview 
-![](.images/)
+![myimage](.images/)
 
