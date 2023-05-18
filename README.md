@@ -32,7 +32,7 @@ THEN I am taken to the corresponding section of the README
 
 The URL of the deployed application: https://nataliecampbellgit.github.io/BookfileArranger/
 
-The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project: https://github.com/NatalieCampbellGit/BookfileArranger
+The URL of the GitHub repository: https://github.com/NatalieCampbellGit/BookfileArranger
 
 Check out this video I recorded with Screencastify: https://drive.google.com/file/d/1qv-mgJiyRd0BELVeGXDT3c-4jv3gUOYE/view
 
