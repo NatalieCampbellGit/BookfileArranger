@@ -36,7 +36,7 @@ The URL of the GitHub repository: https://github.com/NatalieCampbellGit/Bookfile
 
 Check out this video I recorded with Screencastify: https://drive.google.com/file/d/1qv-mgJiyRd0BELVeGXDT3c-4jv3gUOYE/view
 
-The Generated-README.md: https://github.com/NatalieCampbellGit/BookfileArranger/blob/main/Generated-README.md
+The Generated-README.md: https://github.com/NatalieCampbellGit/BookfileArranger/blob/main/Output/Generated-README.md
 
 ## Preview 
 ![image1](./images/readme1.PNG)
